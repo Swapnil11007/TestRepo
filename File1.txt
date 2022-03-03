@@ -1,0 +1,5 @@
+Change 1 – commit with message as “Change 1 in File1”
+Change 2 – commit with message as “Change 2 in File1”
+
+Change 3 - idea bug created and new commit  "idea commit 1"
+Change 4 - New commit on master "master commit 1 after idea commit"
